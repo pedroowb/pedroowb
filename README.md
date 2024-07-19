@@ -5,8 +5,9 @@ Bem-vindo ao meu perfil GitHub! Sou um helpdesk que está buscando adentrar o me
 ## 🚀 Skills
 
 - **Java**
-- **Python**
-- **HTML / CSS**
+- **MYSQL**
+- **Python - Intermediary**
+- **HTML / CSS* - Basic**
 - **Git / Github**
 - **Designer Skills**
 
