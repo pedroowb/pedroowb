@@ -32,7 +32,7 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e s
 
 🔗 **Links Úteis**
 
-- [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/pedro-henrique-899151271/)](https://www.linkedin.com/in/pedro-henrique-899151271/)
+- [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/pedro-henrique-899151271/)](https://www.linkedin.com/in/pedro-henrique-899151271/))
 - [Twitter](https://twitter.com/osemfreio)
 
 ---
