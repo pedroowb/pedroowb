@@ -1,5 +1,5 @@
 # 👨‍💻 Pedro Henrique - Desenvolvedor Back-End
-
+[PTBR - 🇧🇷]
 Bem-vindo ao meu perfil GitHub! Sou um jovem que está buscando adentrar o mercado de desenvolvimento e atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Por enquanto, você encontrará pequenos projetos e práticas básicas de programação. Conforme eu for evoluindo minhas hardskills de software development, os projetos irão exponenciar.
 
 ## 🚀 Skills
@@ -38,3 +38,46 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e s
 ---
 
 Obrigado pela visita! 😊
+
+[EN - 🇺🇸]
+# 👨‍💻 Pedro Henrique - Back-End Developer
+
+Welcome to my GitHub profile! I am a young individual seeking to enter the development market and currently in the second semester of my Systems Analysis and Development (ADS) course. I am always looking for new challenges and opportunities to learn and grow. For now, you will find small projects and basic programming practices. As I improve my software development hard skills, the projects will scale up.
+
+## 🚀 Skills
+
+- **Java**
+- **MySQL**
+- **Python**
+- **HTML / CSS**
+- **Git / GitHub**
+- **Design Skills**
+
+## 📚 Education
+
+- **Systems Analysis and Development (ADS)** - Second Semester
+- **External Training from DIO.IO and other learning platforms**
+- **Self-Taught**
+
+## ✨ Philosophy
+
+"I may not be able to do it now, but my magic is never giving up!"
+- Asta, Black Clover
+
+---
+
+Here you will find projects related to my studies, both on platforms like DIO.IO and challenges set by friends, colleagues, and freelance projects. All in pursuit of exponential growth as a developer.
+
+Feel free to explore my repositories and contribute with ideas and suggestions! Let's connect and learn together. 🚀
+
+---
+
+🔗 **Useful Links**
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-899151271/)
+- [Twitter](https://twitter.com/osemfreio)
+
+---
+
+Thank you for visiting! 😊
+
