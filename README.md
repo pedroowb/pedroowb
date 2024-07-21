@@ -1,5 +1,4 @@
 # 👨‍💻 Pedro Henrique - Desenvolvedor Back-End
-[PTBR - 🇧🇷]
 Bem-vindo ao meu perfil GitHub! Sou um jovem que está buscando adentrar o mercado de desenvolvimento e atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Por enquanto, você encontrará pequenos projetos e práticas básicas de programação. Conforme eu for evoluindo minhas hardskills de software development, os projetos irão exponenciar.
 
 ## 🚀 Skills
