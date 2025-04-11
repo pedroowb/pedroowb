@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Eae!+👋;Eu+Sou+o+Pedro!;" />
 </h1>
 
-<h3 align="center">Programador Entusiasta</h3>
+<h3 align="center">Rails Jedi</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 Atualmente trabalho como Helpdesk Assistant **na CSSM**
  
- 🌱 Estou atualmente aprendendo **Desenvolvimento Web (HTML, CSS, JS)** e outras tecnologias!
+ 🌱 Estou atualmente aprendendo **Rails** e outras tecnologias!
 
 💬 "Eu serei a pedrinha que quebra o diamante! - Asta"
 
@@ -48,7 +48,7 @@
 <div>
   <a href="https://github.com/pedroowb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrwoob&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
   </a>
 </div>
 
