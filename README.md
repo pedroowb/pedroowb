@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚒️ Overview of Stacks ⚒️</h2>
+<h2 align="center">⚒️ Stats and Stacks ⚒️</h2>
 <div>
   <a href="https://github.com/pedroowb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
@@ -61,13 +61,6 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app//api?username=pedroowb&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-</div>
 
 <br/><br/>
 
