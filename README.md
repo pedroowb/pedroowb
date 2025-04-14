@@ -48,7 +48,7 @@
 <div align="center">
   <a href="https://github.com/pedroowb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
   </a>
 </div>
 
