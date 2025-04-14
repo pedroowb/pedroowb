@@ -67,7 +67,7 @@ I'm a passionate technology enthusiast currently pursuing a degree in Analysis a
 
 ## 📌 Current Status
 
-- 🔭 Currently working as a Helpdesk Assistant at **CSSM**
+- 🔭 Currently working as a Junior Web Developer at **SMC - Santa Marcelina Cultura**
 - 🌱 Learning **Ruby on Rails** and other web technologies
 - ⚡ Continuously evolving and embracing lifelong learning
 
