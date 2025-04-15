@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate technology enthusiast currently pursuing a degree in Analysis and Systems Development. With experience as a Helpdesk Assistant at CSSM, I'm focused on enhancing my web development skills, particularly with Ruby on Rails. My love for anime and gaming fuels my creativity, inspiring innovative solutions in the programming world.
+I'm a passionate technology enthusiast currently pursuing a degree in Analysis and Systems Development. With experience as a Helpdesk Assistant at CSSM, and Web Developer in SMC. I'm focused on enhancing my web development skills, particularly with Ruby on Rails. My love for anime and gaming fuels my creativity, inspiring innovative solutions in the programming world.
 
 ---
 
