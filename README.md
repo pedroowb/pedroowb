@@ -1,15 +1,17 @@
 <!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedroowb.pedroowb" alt="Visitor Badge" />
+<img display="block" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedroowb.pedroowb" alt="Visitor Badge" />
 
-<!-- Jedi Dev GIF -->
-<div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif" width="400" />
-</div>
+
 
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Force+Be+With+You!;Code+Jedi+Awakens...;&color=A020F0" alt="Typing SVG" />
 </h1>
+
+<!-- Jedi Dev GIF -->
+<div align="center">
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="700" />
+</div>
 
 <h3 align="center" style="color:#A020F0;">💻 Junior Web Developer | ADS Student | 🌌 Rails Jedi | 🎮 Anime & Gaming Enthusiast</h3>
 
