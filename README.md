@@ -18,9 +18,6 @@
 
 ## 🌟 <span style="color:#A020F0;">Who Am I?</span>
 
-<div align="center">
-  <img src="https://media.tenor.com/4FzNqkB7lPsAAAAC/star-wars-baby-yoda.gif" width="200"/>
-</div>
 ✨ A passionate learner exploring the galaxy of web development.  
 💼 Junior Web Dev at **Santa Marcelina Cultura**  
 📚 Student of **Analysis and Systems Development**  
