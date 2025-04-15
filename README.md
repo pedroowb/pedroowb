@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Force+Be+With+You!;Code+Jedi+Awakens...;&color=A020F0" alt="Typing SVG" />
 </h1>
 
-<!-- Jedi Dev GIF -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="700" />
-</div>
 
 <h3 align="center" style="color:#A020F0;">💻 Junior Web Developer | ADS Student | 🌌 Rails Jedi | 🎮 Anime & Gaming Enthusiast</h3>
 
