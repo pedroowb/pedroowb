@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Force+Be+With+You!;Code+Jedi+Awakens...;&color=A020F0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Code+Be+With+You!;Code+Jedi+Awakens...;&color=A020F0" alt="Typing SVG" />
 </h1>
 
 
