@@ -1,49 +1,45 @@
 <!-- Visitor Badge -->
 <img display="block" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedroowb.pedroowb" alt="Visitor Badge" />
 
-
-
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Code+Be+With+You!;Code+Jedi+Awakens...;&color=A020F0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=May+the+Code+Be+With+You!;PHP+Jedi+Awakens...;&color=008000" alt="Typing SVG" />
 </h1>
 
-
-<h3 align="center" style="color:#A020F0;">💻 Junior Web Developer | ADS Student | 🌌 Rails Jedi | 🎮 Anime & Gaming Enthusiast</h3>
-
+<h3 align="center" style="color:#008000;">💻 Junior Web Developer | ADS Student | 🐘 PHP Dev | 🎮 Anime & Gaming Enthusiast</h3>
 
 ---
 
-## 🌟 <span style="color:#A020F0;">Who Am I?</span>
+## 🌟 <span style="color:#008000;">Who Am I?</span>
 
 ✨ A passionate learner exploring the galaxy of web development.  
 💼 Junior Web Dev at **Santa Marcelina Cultura**  
 📚 Student of **Analysis and Systems Development**  
-🚀 Focused on mastering **Ruby on Rails**, UI/UX design, and backend logic  
+🚀 Focused on mastering **PHP**, **MySQL**, and fullstack logic  
 🎮 Anime fan, LoL midlaner (Irelia main 💥), coding with the heart of a protagonist
 
 ---
 
-## 🛠️ <span style="color:#A020F0;">Tech Stack</span>
+## 🛠️ <span style="color:#008000;">Tech Stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,ruby,rails,mysql,postgres,git,github,vscode,figma,notion,bootstrap,tailwind,supabase,linux,bash" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,linux" alt="Skill Icons" />
 </div>
 <br>
-> Also using: StimulusJS • Avo (Rails Admin) • MVC • FullCalendar • WSL2
+> Also using: DOMPDF • MVC • Bootstrap • Custom Dashboards • WSL2
 
 ---
 
-## 📊 <span style="color:#A020F0;">Stats That Speak</span>
+## 📊 <span style="color:#008000;">Stats That Speak</span>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🐍 <span style="color:#A020F0;">Contribution Snake</span>
+## 🐍 <span style="color:#008000;">Contribution Snake</span>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pedroowb/pedroowb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -51,42 +47,58 @@
 
 ---
 
-## 📫 <span style="color:#A020F0;">Reach Me</span>
+## 📫 <span style="color:#008000;">Reach Me</span>
 
 <div align="center">
   <a href="mailto:phsilvasantos7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-899151271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codewithpedro.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🎯 <span style="color:#A020F0;">Current Mission</span>
+## 🎯 <span style="color:#008000;">Current Mission</span>
 
 - 💼 Junior Developer at **Santa Marcelina Cultura**
-- 🛠️ Building systems with **Rails**, **PostgreSQL**, **Bootstrap**, and **TailwindCSS**
-- 🌐 Exploring MVC architecture, RESTful patterns and component-based UIs
-- 🧘 Focused on growth, autonomy, and clarity in every line of code
+- 🛠️ Building systems with **PHP**, **MySQL**, and **Bootstrap**
+- 🌐 Exploring backend logic and component-based frontends
+- 🧘 Seeking clarity, elegance, and functionality in every solution
 
 ---
 
-## 🔥 <span style="color:#A020F0;">Quotes That Keep Me Going</span>
+## 🔥 <span style="color:#008000;">Quotes That Keep Me Going</span>
 
 > _"I will be the pebble that breaks the diamond."_ – Asta (Black Clover)  
 > _"Power comes in response to a need, not a desire."_ – Goku (DBZ)  
-> _"A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else."_ – Edward Elric (FMA: Brotherhood)  
-> _"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger."_ – Gildarts Clive (Fairy Tail)  
-> _"The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful."_ – Roy Mustang (FMA)  
-> _"Even without talent, I will keep trying. That’s my ninja way."_ – Naruto Uzumaki
+> _"A lesson without pain is meaningless."_ – Edward Elric (FMA: Brotherhood)  
+> _"Fear is not evil. It tells you what your weakness is."_ – Gildarts Clive (Fairy Tail)  
+> _"The world isn’t perfect. But it’s there for us."_ – Roy Mustang (FMA)  
+> _"Even without talent, I will keep trying."_ – Naruto Uzumaki
 
 ---
 
+## 🧞 <span style="color:#008000;">Fun Fact</span>
+
+If I had to name my dev alter ego, it would be **Master Yodabyte** —  
+A techno-sage from the PHP Nexus, debugging with a glowing terminal and wizard hat 🧙‍♂️💾
+
+---
+
+## 📜 <span style="color:#008000;">Code Jedi Manifesto</span>
+
+- 🧘 _Focus beats noise_  
+- 🔍 _Read the code, hear its intent_  
+- 🧩 _Every bug is a riddle_  
+- ☄️ _Be mindful of dopamine, not just deadlines_  
+- 💡 _Teach what you learn, master what you teach_  
+
+---
 ## 🌌 <span style="color:#A020F0;">Anime Badges</span>
 
 <div align="center">
@@ -105,51 +117,8 @@
   <img src="https://img.shields.io/badge/Chainsaw%20Man-Contract+Coder-DD4124?style=for-the-badge&logo=chainsaw&logoColor=white" />
 </div>
 
-
----
-
-## 🧞 <span style="color:#A020F0;">Fun Fact</span>
-
-If I had to name my dev alter ego, it would be **Master Yodabyte** —  
-A techno-sage from the Ruby Nebula, with a holographic staff and a lightsaber that auto-formats broken code.  
-He speaks in commit messages and dreams in YAML 🧙‍♂️💾
-
----
-
-## 🧠 <span style="color:#A020F0;">How I Learn</span>
-
-> "Show. Guide. Do." – This is the **Code Jedi Way**
-
-⚔️ My personal learning philosophy:
-- 🚦 Start with purpose: understand the "why" before the "how"
-- 🧭 Use guided practice to decode the unknown
-- 🧠 Practice active reflection and build **autonomy**
-- 🗡️ Never copy-paste blindly – always recreate and reimagine
-
-> _"A Jedi dev doesn’t seek the fastest route, but the most mindful one."_  
-
----
-
-## 📦 <span style="color:#A020F0;">Side Projects & Experiments</span>
-
-- 🍽️ **AnyKitchen** – Rails app for managing restaurant menus and daily specials for my family bistrô  
-- 🛎️ **Room Booker** – Rails + PHP dual-app system to manage meeting room reservations, time slots, and user control  
-
----
-
-## 📜 <span style="color:#A020F0;">Code Jedi Manifesto</span>
-
-- 🧘 _Focus beats noise_  
-- 🔍 _Read the code, hear its intent_  
-- 🧩 _Every bug is a riddle_  
-- 🪐 _Design the experience, not just the logic_  
-- ☄️ _Be mindful of dopamine, not just deadlines_  
-- 💡 _Teach what you learn, master what you teach_  
-
----
-
 <div align="center">
   <img src="https://media.tenor.com/RLBeL7xqAiUAAAAd/star-wars-the-force.gif" width="400"/>
 </div>
 
-> _"May your commits be clean, your branches rebased, and your burnout avoided."_  
+> _"May your commits be clean, your branches rebased, and your burnout avoided."_
