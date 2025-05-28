@@ -23,10 +23,10 @@
 ## 🛠️ <span style="color:#008000;">Tech Stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,bootstrap,linux" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,postgres,git,github,vscode,bootstrap,tailwind,stimulus,rails,ruby,linux,bash,figma,notion,supabase,java" alt="Skill Icons" />
 </div>
 <br>
-> Also using: DOMPDF • MVC • Bootstrap • Custom Dashboards • WSL2
+> Also using: DOMPDF • MVC • Bootstrap • Custom Dashboards • WSL2 
 
 ---
 
