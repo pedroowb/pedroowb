@@ -33,8 +33,8 @@
 ## 📊 <span style="color:#008000;">Stats That Speak</span>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroowb&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://readme-stats-pedro.vercel.app/api?username=pedroowb&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://readme-stats-pedro.vercel.app/api/top-langs/?username=pedroowb&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
