@@ -15,7 +15,7 @@
 
 ✨ A passionate learner exploring the galaxy of web development.  
 💼 Junior Web Dev at **Santa Marcelina Cultura**  
-📚 Student of **Analysis and Systems Development**  
+📚 Student of **Analysis and Systems Development** at Universidade São Judas Tadeu <br>
 🚀 Focused on mastering **PHP**, **MySQL**, and fullstack logic  
 🎮 Anime fan, LoL midlaner (Irelia main 💥), coding with the heart of a protagonist
 
