@@ -15,7 +15,7 @@ Student of Analysis and Systems Development.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThybXQ3aTkzbGs4d3hmOXY1em9ra2N1eXlqa3Jobmkzb3V4M3J3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwKrSzEXaSdWOavuVo/giphy.gif" width="100%" />
 </td>
   </tr>
 </table>
