@@ -15,7 +15,7 @@ Student of Analysis and Systems Development.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThybXQ3aTkzbGs4d3hmOXY1em9ra2N1eXlqa3Jobmkzb3V4M3J3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwKrSzEXaSdWOavuVo/giphy.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtucnpoNWkweHU1OWExMGxmNXFzMnUzaXJ1dzc2dnBxaG9iYTUwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif" width="100%" />
 </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ Student of Analysis and Systems Development.
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NkdmNjcDB4OXFyNTE0ZjJlNDF1MjR6M3RnMWZ3NTZzYTI1bGQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="240"/>
 </td>
   </tr>
 </table>
@@ -80,9 +80,3 @@ Student of Analysis and Systems Development.
 </div>
 
 ---
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-
-<div align="center">
-  <em>Building real systems. Solving real problems. One commit at a time.</em>
-</div>
