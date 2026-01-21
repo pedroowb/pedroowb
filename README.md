@@ -56,15 +56,6 @@ Student of Analysis and Systems Development.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://readme-stats-pedro.vercel.app/api?username=pedroowb&show_icons=true&hide_border=true&theme=default" />
-  <img height="165em" src="https://readme-stats-pedro.vercel.app/api/top-langs/?username=pedroowb&layout=compact&hide_border=true&theme=default" />
-</div>
-
----
-
 ## Contact
 
 <div align="center">
