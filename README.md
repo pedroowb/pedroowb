@@ -15,18 +15,45 @@ Student of Analysis and Systems Development.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NkdmNjcDB4OXFyNTE0ZjJlNDF1MjR6M3RnMWZ3NTZzYTI1bGQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdibHMxYmFob3FoZjRtYmd2YjB4b3BqNzh5a2lvOTFlenZ3ZzhyMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7kpHanPKV5KBYWIHZg/giphy.gif" width="100%" />
 </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+## Stack & Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,postgres,git,github,vscode,bootstrap,tailwind,rails,ruby,linux,bash,figma,notion,supabase,java,python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
+
+
 
 <br>
 
@@ -49,7 +76,7 @@ Student of Analysis and Systems Development.
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1vZDZ0dG54ZHkyZGdsNGRjbjRicHo0bDVjaGZwNTEyaGJ4aW1ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzYnIwNnh2cGFuZ2lmMXFtMmZvbnE2cnI0ZjU5cXFzbGJxcHo5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kqf2csYZu7uLWK1rrh/giphy.gif" width="240"/>
 </td>
   </tr>
 </table>
